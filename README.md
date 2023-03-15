@@ -9,7 +9,10 @@ I take great enjoyment in creating things that excite people. Whether that be so
 - Location: New York, NY
 - Study: Fullstack Academy
 - Interests: Design, Climbing, Cycling, 3D printing<!-- aboutme-list-end -->
-- ⬇️Reach out!⬇️
+
+
+### ⬇️Reach out!⬇️
+
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winterhardcastle/)[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/summersoftshack)
 [![website](https://img.shields.io/badge/Blog-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)](https://winterhardcastle.com/)
 
