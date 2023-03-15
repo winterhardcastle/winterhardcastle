@@ -20,7 +20,7 @@ I take great enjoyment in creating things that excite people. Whether that be so
 ### My Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winterhardcastle&theme=navy-gear)](https://git.io/streak-stats)
 ![Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=winterhardcastle&show_icons=true&theme=solarized-light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterhardcastle&layout=compact&theme=navy-gear)](https://github.com/jasmineblinks/github-readme-stats)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterhardcastle&layout=compact&theme=navy-gear)](https://github.com/jasmineblinks/github-readme-stats)
 <!--
 **winterhardcastle/winterhardcastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
