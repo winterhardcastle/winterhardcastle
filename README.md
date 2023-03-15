@@ -2,7 +2,7 @@
 <!-- description-start -->
 NYC based Full Stack Software Engineer, Maker, Multidisciplinary Technology Enthusiast.
 
-I take great enjoyment in creating things that excite people. Whether that be software or hardware, designing with a "wow" user experience in mind helps me create beautiful things. My introduction to the world of open-source hardware was custom mechanical keyboards, which quickly transitioned into 3D Printing and Mechanical Design. Throughout this journey, software has always been at the forefront - from Python and Data Analysis, to my more recent focus on Web Development. I’m always looking for exciting projects, so please don’t hesitate to reach out if you would like to work together!
+I take great enjoyment in creating things that excite people. Whether that be software or hardware, designing with a "wow" user experience in mind helps me make beautiful things. My introduction to the world of open-source hardware was custom mechanical keyboards, which quickly transitioned into 3D Printing and Mechanical Design. Throughout this journey, software has always been at the forefront - from Python and Data Analysis, to my more recent focus on Web Development. I’m always looking for exciting projects, so please don’t hesitate to reach out if you would like to work together!
 <!-- description-end -->
 
 <!-- aboutme-list-start -->
