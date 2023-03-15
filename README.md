@@ -1,4 +1,4 @@
-### Hi there, I'm Winter👋
+### Hi there, I'm Winter Hardcastle
 <!-- description-start -->
 NYC based Full Stack Software Engineer, Maker, Multidisciplinary Technology Enthusiast.
 
