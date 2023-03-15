@@ -7,7 +7,6 @@ I take great enjoyment in creating things that excite people. Whether that be so
 
 <!-- aboutme-list-start -->
 - Location: New York, NY
-- Study: Fullstack Academy
 - Interests: Design, Climbing, Cycling, 3D printing
 - Email: winter@hardcastle.io
  <!-- aboutme-list-end -->
