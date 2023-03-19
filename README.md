@@ -9,6 +9,7 @@ I take great enjoyment in creating things that excite people. Whether that be so
 - Location: New York, NY
 - Interests: Design, Climbing, Cycling, 3D printing
 - Email: winter@hardcastle.io
+- Portfolio: www.winterhardcastle.com
  <!-- aboutme-list-end -->
 
 ### ⬇️Reach out!⬇️
