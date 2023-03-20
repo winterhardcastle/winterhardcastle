@@ -20,14 +20,14 @@ I take great enjoyment in creating things that excite people. Whether that be so
  </div> 
 
 <div>
- <h3> Skills </h3> <br>
+ <h3> Skills: </h3> <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,ts,js,py,css,html,react,redux,postgres,express,tailwind,nextjs,sequelize,threejs,vite&theme=light" />
   </a>
 </div>
 
 
-### Stats 
+### Stats:
 ![Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=winterhardcastle&show_icons=true&theme=solarized-light)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterhardcastle&layout=compact&theme=solarized-light)](https://github.com/jasmineblinks/github-readme-stats)
  
