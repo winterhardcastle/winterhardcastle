@@ -15,24 +15,23 @@ inter@hardcastle.io
 
 <div align="center">
  <br/>
- <h1> ⬇️Reach out!⬇️ </h1>
+ <h3> ⬇️Reach out!⬇️ </h3>
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winter-hardcastle/)[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/summersoftshack)[![portfolio](https://img.shields.io/badge/Portfolio-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)](https://winterhardcastle.com/)
 
  <div/> 
-💻 **Languages and Tools:** 🛠️<br>
+<h3>💻 **Languages and Tools:** 🛠️ </h3> <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,ts,js,py,css,html,react,redux,postgres,express,materialui,tailwind,nextjs,nodejs,sequelize,threejs,vscode,vite&theme=light" />
   </a>
 </p>
 
-<div align="center">
-<h1> My Github Stats <h1> <br/>
+<h3> My Github Stats <h3> <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winterhardcastle&theme=navy-gear)](https://git.io/streak-stats) <br />
 ![Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=winterhardcastle&show_icons=true&theme=solarized-light) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterhardcastle&layout=compact&theme=navy-gear)](https://github.com/jasmineblinks/github-readme-stats)
- </div>
+
 <!--
 **winterhardcastle/winterhardcastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
