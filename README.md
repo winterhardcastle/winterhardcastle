@@ -22,7 +22,7 @@ I take great enjoyment in creating things that excite people. Whether that be so
 <div>
  <h3> Skills </h3> <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ts,js,py,css,html,react,redux,postgres,express,materialui,tailwind,nextjs,nodejs,sequelize,threejs,vscode,vite&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,ts,js,py,css,html,react,redux,postgres,express,tailwind,nextjs,sequelize,threejs,vite&theme=light" />
   </a>
 </div>
 
