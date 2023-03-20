@@ -8,13 +8,21 @@ I take great enjoyment in creating things that excite people. Whether that be so
 <!-- aboutme-list-start -->
 - Location: New York, NY
 - Interests: Design, Climbing, Cycling, 3D printing
-- Email: winter@hardcastle.io
+- Email: w
+inter@hardcastle.io
 - Portfolio: www.winterhardcastle.com
  <!-- aboutme-list-end -->
 
 ### ⬇️Reach out!⬇️
 
 [![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/winter-hardcastle/)[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/summersoftshack)[![portfolio](https://img.shields.io/badge/Portfolio-4d1a7f?style=for-the-badge&logo=Portfolio&logoColor=white)](https://winterhardcastle.com/)
+
+💻 **Languages and Tools:** 🛠️<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ts,js,py,css,html,react,redux,postgres,express,materialui,tailwind,nextjs,nodejs,sequelize,threejs,vscode,vite&theme=light" />
+  </a>
+</p>
 
 ### My Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winterhardcastle&theme=navy-gear)](https://git.io/streak-stats) <br />
