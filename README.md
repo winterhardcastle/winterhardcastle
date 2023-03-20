@@ -27,11 +27,12 @@ inter@hardcastle.io
   </a>
 </p>
 
-<h3> My Github Stats <h3> <br/>
+<div align="center">
+<h3> My Github Stats </h3> <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=winterhardcastle&theme=navy-gear)](https://git.io/streak-stats) <br />
 ![Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=winterhardcastle&show_icons=true&theme=solarized-light) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winterhardcastle&layout=compact&theme=navy-gear)](https://github.com/jasmineblinks/github-readme-stats)
-
+ </div>
 <!--
 **winterhardcastle/winterhardcastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
